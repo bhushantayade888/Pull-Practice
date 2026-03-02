@@ -21,14 +21,14 @@ git checkout -b master
 
  Screenshot:
 
-![Create Master Branch](screenshots/create-master-branch.png)
+![Create Master Branch](./img/Screenshot%202026-03-02%20111355.png)
  Step 3: Add and Commit Files
 git add .
 git commit -m "Initial commit on master branch"
 
  Screenshot:
 
-![Commit on Master](screenshots/commit-master.png)
+![Commit on Master](./img/Screenshot%202026-03-02%20111718.png)
  Step 4: Connect Remote Repository
 git remote add origin https://github.com/your-username/your-repo-name.git
  Step 5: Push Master Branch to GitHub
@@ -55,7 +55,7 @@ Click Create Pull Request
 
  Screenshot:
 
-![Create Pull Request](screenshots/pull-request.png)
+![Create Pull Request]( ./img/Screenshot%202026-03-02%20095615.png)
  Step 7: Merge Pull Request
 
 Click Merge Pull Request
@@ -63,7 +63,7 @@ Confirm merge.
 
  Screenshot:
 
-![Merge Pull Request](screenshots/merge.png)
+![Merge Pull Request](./img/Screenshot%202026-03-02%20111909.png)
  Branch Flow
 master  ────────►  Pull Request  ────────►  main
  Project Structure
